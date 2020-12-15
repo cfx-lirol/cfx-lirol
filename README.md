@@ -1,6 +1,6 @@
 ## Developer
 
-- 🌱 Currently learning JS and C#
+- 🌱 Currently learning C#, Lua and Batch
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to FiveM and RedM stuff
 - ⚡ Fun fact: I really like playing video games, and develop FiveM servers
