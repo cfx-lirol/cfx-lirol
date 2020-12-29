@@ -1,19 +1,3 @@
-## Developer
-
-- 🌱 Currently learning C#, Lua and Batch
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to FiveM and RedM stuff
-- ⚡ Fun fact: I really like playing video games, and develop FiveM servers
-
----
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/3f1jf37e8iq1ufwyr0gt4sop0)
-
----
-
-<br />
-
 
 ### Languages and Tools:
 
